@@ -1,4 +1,4 @@
-![Hey there, I'm Diego. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Blodige-D/Blodige-D/raw/main/codesandbox - Opera 2021-10-29 23-58-26 (1).gif)
+![Hey there, I'm Diego. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Blodige-D/Blodige-D/raw/main/profile.gif)
 
 <!--
 **Blodige-D/Blodige-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
